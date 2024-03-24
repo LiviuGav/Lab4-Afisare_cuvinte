@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        string filePath = "cuvinte.txt"; //Lab4-Afisare_cuvinte\bin\Debug
+        string filePath = "cuvinte.txt"; // Lab4-Afisare_cuvinte\bin\Debug
         try
         {
             if (!File.Exists(filePath))
